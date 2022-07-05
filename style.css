@@ -1,3 +1,17 @@
 body {
     font-family: 'Nanum Gothic', sans-serif;
 }
+
+.front {
+    text-align: center;
+}
+
+.front a {
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    background-image: linear-gradient(bisque, orange);
+    padding: 12px;
+    border: gainsboro;
+    border-radius: 5px;
+}
