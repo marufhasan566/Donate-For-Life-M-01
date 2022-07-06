@@ -1,10 +1,27 @@
 body {
     font-family: 'Nanum Gothic', sans-serif;
+    background-image: url(img/massive_donate.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .front {
     text-align: center;
     margin: 100px;
+    color: white;
+
+}
+
+.yellow-color {
+    color: yellow;
+}
+
+.front p {
+    text-align: center;
+    font-size: larger;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .front h1 {
