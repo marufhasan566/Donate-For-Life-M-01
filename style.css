@@ -209,10 +209,9 @@ body {
     padding: 5px;
 }
 
-#paragraph {
+.updates p {
     text-align: center;
     font-size: larger;
-    padding-bottom: 60px;
 }
 
 #email {
