@@ -117,7 +117,7 @@ body {
     font-weight: bold;
     font-size: 50px;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 150px;
 }
 
 .mission p {
@@ -127,4 +127,47 @@ body {
     margin-right: 200px;
     margin-bottom: 50px;
     font-family: 'Poppins', sans-serif;
+}
+
+.flexible-container {
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+
+
+}
+
+.activity-grid {
+
+    width: 40%;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+.activities h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: brown;
+}
+
+.activities img {
+    height: 150px;
+    width: 150px;
+}
+
+.activities p {
+    text-align: justify;
+}
+
+#food {
+    background-color: #b5e5fb;
+}
+
+#education {
+    background-color: pink;
+}
+
+#shelter {
+    background-color: bisque;
 }
