@@ -21,19 +21,23 @@ body {
     color: yellow;
 }
 
+.front h1 {
+    font-weight: bold;
+    font-size: 60px;
+
+}
+
 .front p {
     text-align: center;
-    font-size: larger;
+    font-size: x-large;
     margin-left: 200px;
     margin-right: 200px;
+    font-family: 'Kantumruy Pro', sans-serif;
     font-family: 'Poppins', sans-serif;
-}
-
-.front h1 {
-    font-weight: 900;
-    font-size: 50px;
 
 }
+
+
 
 .front a {
     text-decoration: none;
@@ -42,7 +46,21 @@ body {
     font-weight: 600;
     color: white;
     background-image: linear-gradient(rgb(227, 81, 3), tomato);
-    padding: 12px 20px;
+    padding: 15px 30px;
     border: gainsboro;
-    border-radius: 10px;
+    border-radius: 5px;
+}
+
+.donate h1 {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.donate p {
+    text-align: center;
+    font-size: larger;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Poppins', sans-serif;
 }
