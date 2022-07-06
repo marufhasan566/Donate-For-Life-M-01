@@ -201,3 +201,44 @@ body {
     border-radius: 5px;
 
 }
+
+.updates h1 {
+    color: forestgreen;
+    font-size: 50px;
+    text-align: center;
+    padding: 5px;
+}
+
+#paragraph {
+    text-align: center;
+    font-size: larger;
+    padding-bottom: 60px;
+}
+
+#email {
+    color: gray;
+    font-weight: 500;
+    font-size: 30px;
+    padding: 10px 60px;
+    background-color: #d3d3d3;
+    border: 0px solid #d3d3d3;
+    margin-left: 150px;
+}
+
+.updates a {
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 30px;
+    padding: 10px 60px;
+    background-color: tomato;
+    border: 0px solid tomato;
+    margin-left: -5px;
+
+}
+
+.form {
+    background-color: beige;
+    margin: 150px;
+    padding: 100px 100px;
+}
