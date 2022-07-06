@@ -1,13 +1,18 @@
 body {
     font-family: 'Nanum Gothic', sans-serif;
+
+}
+
+.intro {
     background-image: url(img/massive_donate.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    margin: -8px;
+
 }
 
 .front {
     text-align: center;
-    margin: 100px;
     color: white;
 
 }
@@ -19,14 +24,15 @@ body {
 .front p {
     text-align: center;
     font-size: larger;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
     font-family: 'Poppins', sans-serif;
 }
 
 .front h1 {
-    font-weight: 800;
+    font-weight: 900;
     font-size: 50px;
+
 }
 
 .front a {
