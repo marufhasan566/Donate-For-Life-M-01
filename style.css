@@ -6,7 +6,7 @@ body {
 .intro {
     background-image: url(img/massive_donate.jpg);
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: relative;
     margin: -8px;
 
 }
@@ -62,5 +62,28 @@ body {
     font-size: larger;
     margin-left: 200px;
     margin-right: 200px;
+    margin-bottom: 50px;
     font-family: 'Poppins', sans-serif;
+}
+
+.amount {
+    display: flex;
+    justify-content: center;
+}
+
+.amount p {
+    font-size: 30px;
+    font-weight: 600;
+    border: 1px solid greenyellow;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    padding: 40px;
+    margin: 20px;
+
+}
+
+#two-hundred-dollars {
+    border: 3px solid tomato;
+    background-color: #B5E5FB;
+
 }
