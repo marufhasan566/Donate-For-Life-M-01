@@ -74,7 +74,6 @@ body {
 .amount p {
     font-size: 30px;
     font-weight: 600;
-    border: 1px solid greenyellow;
     background-color: whitesmoke;
     border-radius: 4px;
     padding: 40px;
@@ -83,7 +82,33 @@ body {
 }
 
 #two-hundred-dollars {
-    border: 3px solid tomato;
+    border: 2px solid tomato;
     background-color: #B5E5FB;
+
+}
+
+.donate-now input {
+    margin-left: 45%;
+    margin-top: 50px;
+    font-size: 20px;
+    border: none;
+}
+
+.donate-now hr {
+    width: 50%;
+    border: 0.5px solid gray;
+
+}
+
+.donate-now a {
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    background-image: linear-gradient(rgb(227, 81, 3), tomato);
+    padding: 10px 20px;
+    border: gainsboro;
+    border-radius: 5px;
+    margin-left: 46%;
 
 }
