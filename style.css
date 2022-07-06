@@ -112,3 +112,19 @@ body {
     margin-left: 46%;
 
 }
+
+.mission h1 {
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.mission p {
+    text-align: justify;
+    font-size: larger;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    font-family: 'Poppins', sans-serif;
+}
