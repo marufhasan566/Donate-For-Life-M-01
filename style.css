@@ -242,3 +242,22 @@ body {
     margin: 150px;
     padding: 100px 100px;
 }
+
+footer {
+    background-color: black;
+    margin: -10px;
+}
+
+footer h1 {
+    font-family: 'Pacifico', cursive;
+    color: turquoise;
+    padding-top: 30px;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    padding-top: -20px;
+    padding-bottom: 50px;
+}
