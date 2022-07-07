@@ -200,6 +200,31 @@ body {
 
 }
 
+.directors {
+    display: flex;
+    margin-left: 50px;
+}
+
+.team-members h1 {
+    text-align: center;
+    color: teal;
+    font-size: 45px;
+}
+
+.team-members img {
+    width: 450px;
+    height: 450px;
+    margin: 10px;
+    padding: auto;
+}
+
+.team-members p {
+    color: maroon;
+    font-weight: 600;
+    text-align: center;
+}
+
+
 .updates h1 {
     color: forestgreen;
     font-size: 40px;
